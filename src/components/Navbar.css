@@ -1,0 +1,21 @@
+.main {
+  padding: 10px auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 26px;
+  color: #8758FF;
+  font-weight: bold;
+}
+
+.navbar-version {
+  color: white;
+  font-size: 14px;
+  font-weight: normal;
+}
